@@ -160,7 +160,7 @@ public class Lab11 {
                     break;
                 case "-":
                     result = a - b;
-                    break;
+                    break
                 case "*":
                     result = a * b;
                     break;
