@@ -18,7 +18,7 @@ public class tap20 {
                 new Order("Phone",500),
                 new Order("Laptop",1200),
                 new Order("Mouse",20)
-        );
+        )
 
         List<String> result = list.stream()
                 .filter(o -> o.price > 100)
